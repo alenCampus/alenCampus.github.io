@@ -1,0 +1,35 @@
+.body-h1 {background-color: rgb(244,244,50)}
+
+.body-background {background-color:lightgrey;
+				  background-image: url("media/Bild.jpg");
+}
+	
+#myHeader{
+	color: white;
+	text-align:center;
+	border:2px solid black;
+}
+
+.intro{
+	text-align:center;
+	
+}
+
+.file2h1{
+	text-align:center;
+	color:white;
+}
+
+.div-file2{text-align:center;color:white;border:white}
+
+.title-second-page{
+	color:black;
+}
+-----
+.logo{
+	position:bottom;
+}
+
+.header-developer{
+	
+}
